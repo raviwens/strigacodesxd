@@ -1,0 +1,9 @@
+{
+  "token": "TOKEN GİR",
+  "mailGuildId": "SUNUCU İD",
+  "mainGuildId": "SUNUCU İD",
+  "logChannelId": "LOG KANAL İD",
+
+  "status": "Destek almak için özelden mesaj at!",
+  "responseMessage": "Mesajınız İletildi Lütfen Bekleyiniz."
+}
